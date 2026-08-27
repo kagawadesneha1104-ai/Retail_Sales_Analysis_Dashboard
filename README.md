@@ -335,47 +335,49 @@ The project successfully transforms retail sales data into an interactive busine
 
 ## 📦 Requirements
 
-```text
-Power BI Desktop
-Retail Sales Dataset
-CSV Dataset
-```
+    Power BI Desktop
+    Power Query
+    Retail Sales Dataset
+    CSV Dataset
 
-No Python installation is required to open and interact with the `.pbix` dashboard if Power BI Desktop is available.
+Power BI Desktop is required to open and interact with the `.pbix` dashboard.
 
 ---
 
 ## ▶️ Running the Project
 
-### 1️⃣ Open the Project
+### 1️⃣ Clone the Repository
+
+    git clone <YOUR_GITHUB_REPOSITORY_URL>
+    cd Retail_Sales_Analysis_Dashboard
+
+### 2️⃣ Open the Power BI Dashboard
 
 Open:
 
-```text
-powerbi/Retail_Sales_Analysis_Dashbord.pbix
-```
+    powerbi/Retail_Sales_Analysis_Dashbord.pbix
 
 using **Microsoft Power BI Desktop**.
 
-### 2️⃣ Verify the Dataset
+### 3️⃣ Verify the Dataset
+
+The raw dataset is available at:
+
+    data/raw dataset/store_sales_data.csv
 
 The cleaned dataset is available at:
 
-```text
-data/cleaned dataset/cleaned_store_sales_data.csv
-```
+    data/cleaned dataset/cleaned_store_sales_data.csv
 
-### 3️⃣ Refresh the Dashboard
+### 4️⃣ Refresh the Dashboard
 
-If required, use:
+If required, refresh the Power BI report using:
 
-```text
-Home → Refresh
-```
+    Home → Refresh
 
-to refresh the report data.
+to load the latest dataset changes.
 
-### 4️⃣ Explore the Dashboard
+### 5️⃣ Explore the Dashboard
 
 Use the available filters and visualizations to analyze:
 
