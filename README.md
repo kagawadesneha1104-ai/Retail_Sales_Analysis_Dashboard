@@ -348,7 +348,7 @@ Power BI Desktop is required to open and interact with the `.pbix` dashboard.
 
 ### 1️⃣ Clone the Repository
 
-    git clone <YOUR_GITHUB_REPOSITORY_URL>
+    git clone https://github.com/kagawadesneha1104-ai/Retail_Sales_Analysis_Dashboard.git
     cd Retail_Sales_Analysis_Dashboard
 
 ### 2️⃣ Open the Power BI Dashboard
