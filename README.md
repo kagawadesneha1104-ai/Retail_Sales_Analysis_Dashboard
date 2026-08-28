@@ -7,7 +7,7 @@ The project uses **Power BI** to transform a cleaned retail sales dataset into a
 The analysis focuses on variables such as **sales, sales amount, profit, quantity, category, sub-category, product name, customer name, region, country, segment, outlet type, city type, order date, and year**, converting raw retail transaction data into meaningful business insights.
 
 ---
-![alt text](<screenshots/Retail Sales Analysis Dashboard.png>)
+![alt text](<Retail Sales Analysis Dashboard.png>)
 
 ## 🚀 Core Features
 
