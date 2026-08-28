@@ -148,8 +148,7 @@ Retail_Sales_Analysis_Dashboard/
 │   └── Retail_Sales_Analysis_Dashbord.pbix
 │
 ├── screenshots/
-│   ├── Retail Dashboard.png
-│   ├── Retail Sales Analysis Dashboard.png
+│   ├── Retail Dashboard.png     
 │   ├── Sales Dashboard.png
 │   └── Sales Store Dashboard.png
 │
