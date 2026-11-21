@@ -401,3 +401,11 @@ The primary objective of this project is to demonstrate a complete **retail sale
 The project demonstrates how Power BI can be used to transform retail transaction data into meaningful business insights and support **data-driven decision-making**.
 
 The final dashboard provides a consolidated view of **sales performance, profitability, order volume, product performance, customer contribution, geographic performance, and time-based sales trends**.
+
+
+## 👩‍💻 Author
+
+**Sneha Kagawade**  
+MCA – Data Science
+
+GitHub: https://github.com/kagawadesneha1104-ai
